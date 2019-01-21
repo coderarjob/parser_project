@@ -2,7 +2,6 @@
 * Compile: gcc subset_constrution.c
 */
 #include<stdio.h>
-#include<malloc.h>
 
 typedef struct ec_set{
 	int states[10];
